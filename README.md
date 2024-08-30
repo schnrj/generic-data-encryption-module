@@ -24,5 +24,5 @@ The **Generic Data Encryption Module** is a versatile project designed to provid
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/generic-data-encryption-module.git
+   git clone https://github.com/schnrj/generic-data-encryption-module.git
    cd generic-data-encryption-module
