@@ -19,7 +19,7 @@ To set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/generic-data-encryption-module.git
+   git clone https://github.com/schnrj/generic-data-encryption-module.git
 =======
 The **Generic Data Encryption Module** is a versatile project designed to provide robust cryptographic services to ensure data confidentiality and integrity. This module implements various encryption techniques, including symmetric and asymmetric encryption, and hashing functions. It is developed as a set of services and libraries that can be integrated with other systems and microservices.
 
