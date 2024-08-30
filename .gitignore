@@ -1,0 +1,53 @@
+# Build directories
+/build
+/bin
+/obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# IDE-specific files
+*.idea/
+*.vscode/
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.a
+*.lib
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Dependency directories
+/deps/
+
+# Log files
+*.log
+
+# Backup files
+*~
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+
+# Configuration files
+*.conf
+
+# Generated files
+*.cmake
+*.ninja
