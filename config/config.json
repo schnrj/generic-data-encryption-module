@@ -1,0 +1,25 @@
+{
+  "encryption": {
+    "algorithm": "AES",
+    "keySize": 256,
+    "ivLength": 16
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "your_db_user",
+    "password": "your_db_password",
+    "database": "your_db_name"
+  },
+  "server": {
+    "port": 3000
+  },
+  "logging": {
+    "level": "info",
+    "filePath": "./logs/app.log"
+  },
+  "api": {
+    "baseUrl": "https://api.example.com",
+    "timeout": 5000
+  }
+}
